@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: I am funny
 
+<a href="https://www.linkedin.com/in/kamaleshwaran-s-21654224b">
+<img src="https://img.icons8.com/color/512/linkedin-circled--v5.png" width="50"></a>

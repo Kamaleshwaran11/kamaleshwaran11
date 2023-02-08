@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning :
 
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/1x/external-java-computer-programming-flaticons-flat-flat-icons.png" width=45><img src="https://img.icons8.com/fluency/256/c-plus-plus-logo.png" width=45>
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/1x/external-java-computer-programming-flaticons-flat-flat-icons.png" width=45><img src="https://img.icons8.com/fluency/256/c-plus-plus-logo.png" width=45><img src="https://img.icons8.com/fluency/256/python.png"width=45>
 
 
 ⚡Fun fact: I am funny

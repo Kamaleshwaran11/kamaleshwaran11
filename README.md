@@ -1,5 +1,5 @@
 
-<img align="center" src="https://vipestudio.com/wp-content/uploads/2020/06/SuperMario.gif" >
+<img align="center" src="https://vipestudio.com/wp-content/uploads/2020/06/SuperMario.gif" width="1250">
 <h1 align="center"> Hi 👋 I'm Kamaleshwaran</h1>
 
 

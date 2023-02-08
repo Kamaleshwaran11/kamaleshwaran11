@@ -15,10 +15,10 @@
 ⚡Fun fact: I am funny
 
 <a href="https://www.linkedin.com/in/kamaleshwaran-s-21654224b">
-<img src="https://img.icons8.com/color/512/linkedin-circled--v5.png" width="50"></a>
+<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/256/external-linkedin-social-media-justicon-lineal-color-justicon.png" width="50"></a>&nbsp
 
 <a href="https://www.facebook.com/kamaleshwaran.shankar?mibextid=ZbWKwL ">
-<img src="https://img.icons8.com/fluency/2x/facebook-new.png" width="50"></a>
+<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/256/external-facebook-social-media-justicon-lineal-color-justicon.png" width="50"></a>&nbsp
 
 <a href="https://twitter.com/Kamaleshwaran_3?t=jk3FaXFUiVZtsazx_Y_v_A&s=09">
-<img src="https://img.icons8.com/color/2x/twitter--v4.png" width="50"></a>
+<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/256/external-twitter-social-media-justicon-lineal-color-justicon.png" width="50"></a>

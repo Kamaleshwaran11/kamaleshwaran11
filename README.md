@@ -1,6 +1,6 @@
 
-<img  src="https://vipestudio.com/wp-content/uploads/2020/06/SuperMario.gif" >
-### Hi 👋 I'm Kamaleshwaran
+<img align="center" src="https://vipestudio.com/wp-content/uploads/2020/06/SuperMario.gif" >
+<h1 align="center"> Hi 👋 I'm Kamaleshwaran</h1>
 
 
 

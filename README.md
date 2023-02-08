@@ -4,7 +4,7 @@
 
 
 
-🌱 I’m currently learning Java
+🌱 I’m currently learning Java,c,c++,python
 
 
 

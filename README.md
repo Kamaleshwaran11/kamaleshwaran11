@@ -1,6 +1,6 @@
 
 <div align="center"><img  src="https://gifdb.com/images/file/pikachu-running-with-thunderbolt-jsu7kh3omj9rnx19.gif" width="450" ></div>
-<h1 align="center"> Hi 👋 I'm Kamaleshwaran S</h1>
+<h1 align="center"> Hi 👋 I'm Kamaleshwaran Shankar</h1>
 
 <h3>🌱 I’m currently learning :</h3>
 

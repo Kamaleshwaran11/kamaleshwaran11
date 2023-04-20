@@ -1,4 +1,4 @@
-<div align="center"><img  src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="450" ></div>
+<div align="center"><img  src="https://im4.ezgif.com/tmp/ezgif-4-daceb6e10d.gif" width="450" ></div>
 <h1 align="center"> Hi 👋 I'm Kamaleshwaran S</h1>
 
 <h3>🌱 I’m currently learning :</h3>

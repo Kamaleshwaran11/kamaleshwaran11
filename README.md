@@ -1,5 +1,11 @@
 <div align="center"><img  src="https://raw.githubusercontent.com/TharunBalaji2004/TharunBalaji2004/main/coding.gif" width="450" ></div>
 <h1 align="center"> Hi 👋 I'm Kamaleshwaran S</h1>
+&nbsp;
+&nbsp;
+<div>
+  <a href="https://app.daily.dev/kamaleshwaran11"><img src="https://api.daily.dev/devcards/d6bb7fe0bd664fa8aba59e972d99955d.png?r=6rh" width="280" alt="kamaleshwaran's Dev Card"/></a>
+  
+</div>
 
 <h3>🌱 I’m currently learning :</h3>
 

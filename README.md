@@ -1,12 +1,17 @@
-<div align="center"><img  src="https://raw.githubusercontent.com/TharunBalaji2004/TharunBalaji2004/main/coding.gif" width="450" ></div>
-<h1 align="center"> Hi 👋 I'm Kamaleshwaran S</h1>
+<div align="center"><img  src="https://raw.githubusercontent.com/TharunBalaji2004/TharunBalaji2004/main/coding.gif" width="300" ></div>
+<h1 align="center"> Hi there 👋 I'm Kamaleshwaran S</h1>
 &nbsp;
 &nbsp;
 <div>
-  <a href="https://app.daily.dev/kamaleshwaran11"><img src="https://api.daily.dev/devcards/d6bb7fe0bd664fa8aba59e972d99955d.png?r=6rh" width="280" alt="kamaleshwaran's Dev Card"/></a>
-  
+  <a href="https://app.daily.dev/kamaleshwaran11"><img src="https://api.daily.dev/devcards/d6bb7fe0bd664fa8aba59e972d99955d.png?r=6rh" width="280" alt="kamaleshwaran's Dev Card" align="right"/></a>
+  <div>
+
 </div>
 
+  
+</div>
+<h2>
+I'm Studying B.E Computer science at Aalim Muhammed salegh College of Engineering</h2>
 <h3>🌱 I’m currently learning :</h3>
 
 <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/1x/external-java-computer-programming-flaticons-flat-flat-icons.png" width="45"><img src="https://img.icons8.com/fluency/256/c-plus-plus-logo.png" width="45"><img src="https://img.icons8.com/fluency/256/python.png" width="45">

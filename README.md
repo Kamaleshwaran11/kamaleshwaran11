@@ -10,11 +10,6 @@
 
   
 </div>
-<h2>About Me: </br> </h2>
-<h3>🎓I'm Currently Studying : </br>  B.E Computer science at Aalim Muhammed salegh College of Engineering</h3>
-<h3>🌱 I’m currently learning :</h3>
-
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/1x/external-java-computer-programming-flaticons-flat-flat-icons.png" width="45"><img src="https://img.icons8.com/fluency/256/python.png" width="45">
 
 <h3>📫 How to reach me:</h3>
 

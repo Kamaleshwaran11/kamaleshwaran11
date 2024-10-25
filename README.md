@@ -40,9 +40,9 @@
     <p align="center"> 
       <br> <br> 
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamaleshwaran11&theme=radical"/> 
-     <p align="center">
-    <img width="80%" alt="contributions graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=kamaleshwaran11&area=true&layout=compact&theme=tokyo-night&hide_border=true" />
-</p>
+    </p>
+     <img src= "https://github-readme-activity-graph.vercel.app/graph?username=kamaleshwaran11&theme=dracula"/>
+     
   </details> 
 </h4>
 <h4> 

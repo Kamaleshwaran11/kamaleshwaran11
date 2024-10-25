@@ -41,7 +41,7 @@
       <br> <br> 
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamaleshwaran11&theme=radical"/> 
     </p>
-     <img src= "https://github-readme-activity-graph.vercel.app/graph?username=kamaleshwaran11&theme=dracula"/>
+     <img src= "https://github-readme-activity-graph.vercel.app/graph?username=kamaleshwaran11&theme=high-contrast"/>
      
   </details> 
 </h4>

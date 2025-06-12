@@ -2,9 +2,6 @@
 <h1 align="center"> Hi there 👋 I'm Kamaleshwaran </h1>
 &nbsp;
 &nbsp;
-<div>
-  <a href="https://app.daily.dev/kamaleshwaran11"><img src="https://api.daily.dev/devcards/d6bb7fe0bd664fa8aba59e972d99955d.png?r=6rh" width="32%" alt="kamaleshwaran's Dev Card" align="right"/></a>
-  <div>
 
 </div>
 

@@ -107,7 +107,7 @@
   <g transform="translate(325, 24)">
     <rect width="250" height="26" rx="13" fill="#17090b" stroke="#ff2a45" stroke-width="1" stroke-opacity="0.7" />
     <circle cx="18" cy="13" r="5" fill="#ef4444" class="pulse-dot" />
-    <text x="135" y="17.5" text-anchor="middle" class="badge-text">BUILDING REAL-WORLD TECH</text>
+    <text x="135" y="17.5" text-anchor="middle" class="badge-text">LEARNING AND BUILTING NEW TECH</text>
   </g>
 
   <!-- Main Name Header -->
@@ -124,7 +124,7 @@
     <tspan fill="#64748b"> &#8226; </tspan>
     <tspan fill="#f1f5f9">ASPIRING SOFTWARE ENGINEER</tspan>
     <tspan fill="#64748b"> &#8226; </tspan>
-<tspan fill="#ff4d6d">AI &amp; ML, Cloud Enthusiast</tspan>
+<tspan fill="#ff4d6d">AI &amp; Cloud Enthusiast</tspan>
   </text>
 
   <!-- Decorative Sleek Red Line with Diamond -->
